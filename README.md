@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgrdinic
+- 👋 Hi, I’m Marcel Grdinic! @mgrdinic
 - 👀 I’m interested in teaching secondary students about data analysis.
 - 🌱 I’m currently learning how to use GitHub and linking it with work I have done in R.
 - 💞️ I’m looking to collaborate on ???
